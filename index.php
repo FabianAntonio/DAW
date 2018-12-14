@@ -1,7 +1,3 @@
 <?php
-lp,kikij
-
-
-
-
+	echo "Primera Prueba";
 ?>
